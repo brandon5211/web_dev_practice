@@ -1,8 +1,12 @@
 *{
     margin: 10px;
     padding: 10px;
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-family: 'Comic Nueu' ;
+    
 }
 body{
-    background: turquoise;
+    background: peachpuff;
 }
